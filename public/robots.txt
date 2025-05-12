@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api
+Disallow: /_next
+Allow: /_next/static/css
+Sitemap: https://10minprep.com/sitemap.xml
